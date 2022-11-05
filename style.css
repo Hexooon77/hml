@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    background-image: url("icons/mozajka.png");
+}
+.text-center{
+    text-align: center;
+}  
+.wysrodkowanie{
+    margin: 0;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color: blue;
+}
+.wysrodkowanie:hover{
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-decoration: darkbl
+}
+h1{
+    text-decoration: underline overline;
+    text-decoration-line: overline underline;
+    text-decoration-style: dashed;
+}
